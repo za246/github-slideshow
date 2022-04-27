@@ -1,0 +1,28 @@
+<body style="background-color:#728FCE;">
+<style>
+    .w-text {
+      color: white;
+    }
+  
+    .ft {
+      font-family:'Raleway', serif;
+    }
+    .ayato {
+        border-radius: 50%;
+    }
+    .smol-imej{
+        width: 200px;
+    }      
+    .mgg {
+        margin-left: 600px;
+        margin-top: 200px;
+    }
+    .mgt {
+        margin-left: 635px;
+    }
+    </style>
+
+<a href="#"><img class="ayato mgg smol-imej" src="https://cdn.discordapp.com/attachments/945865094401777664/968399551729905694/IMG_20220423_173432_855.jpg"></a>
+<h3 class="w-text mgt ft">Hello, it's me!</h3>
+<h4 class="w-text mgt ft">(Made with me)</h4>
+</body>
